@@ -1,2 +1,2 @@
-# projet_s1.04 \n
+# projet_s1.04
 ATTENTION !! : LISTEZ LES SOURCES
